@@ -14,6 +14,7 @@
 # 项目配置说明
 
 硬件环境：
+
 操作系统：内核版本为 3.10.0-1160.95.1.el7.x86_64的CentOS 7
 CPU: Intel(R) Xeon(R) Silver 4310 CPU @ 2.10GHz
 GPU：NVIDIA Tesla V100 GPU
