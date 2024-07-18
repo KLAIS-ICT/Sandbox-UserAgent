@@ -31,6 +31,10 @@ pip install -r requirements.txt
 ```python
 clicker = Clicker('/LLM/Path/')
 ```
+> 这里指定的是下载到本地的Llama模型路径。
+> 下载地址：https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+> 国内镜像：https://www.modelscope.cn/models/shakechen/Llama-2-7b-chat-hf
+> 也可以从其他服务器上copy到本地，/data22/public/llama_model/7b-chat-hf
 
 # 运行说明
 启动应用服务：
